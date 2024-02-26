@@ -20,3 +20,10 @@ In addition, you can delete what you selected, edit or add a new assignment (edi
 
 ![image](https://github.com/shilo765/taskTodo/assets/63932084/69616d9b-024e-4312-bb51-8b810542c983)
 On the second screen you can edit and add a new assignment (changes according to what you chose on the first screen)
+
+the mysql table is called todo
+values: key: primary key
+userId:string
+date:string
+cord:string
+
